@@ -7,3 +7,7 @@
 - Choose "Start a program" as the action to perform and click Next.
 - In the "Program/script" field, browse to select the batch file you created earlier.
 - Click Next, review your settings, and click Finish to create the task.
+
+
+# Import the SQL_Backup.xml
+- Make sure that you change line 50 to the file path where the .bat file is
